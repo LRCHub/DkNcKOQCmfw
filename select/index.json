@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Going, Going, Gone",
+  "base_artist": "Knox",
+  "createdAt": "2025-12-11T15:34:40.743782Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Going, Going, Gone",
+      "artist": "Lee Greenwood",
+      "has_synced": true,
+      "path": "select/01_Going,_Going,_Gone_Lee_Greenwood.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Going, Going, Gone",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/02_Going,_Going,_Gone_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Going, Going, Gone",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/03_Going,_Going,_Gone_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Going, Going Gone",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/04_Going,_Going_Gone_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Going, Going, Gone",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/05_Going,_Going,_Gone_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Going, Going, Gone (LP Version)",
+      "artist": "Information Society",
+      "has_synced": true,
+      "path": "select/06_Going,_Going,_Gone_(LP_Version)_Information_Society.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Going, Going, Gone (Razed in Black Mix)",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/07_Going,_Going,_Gone_(Razed_in_Black_Mix)_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Going, Going, Gone [razed in black mix]",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/08_Going,_Going,_Gone_[razed_in_black_mix]_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Going, Going, Gone",
+      "artist": "Infectious Grooves",
+      "has_synced": false,
+      "path": "select/09_Going,_Going,_Gone_Infectious_Grooves.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Going Going Gone",
+      "artist": "Exodus",
+      "has_synced": true,
+      "path": "select/10_Going_Going_Gone_Exodus.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Going, Going, Gone",
+      "artist": "Stars",
+      "has_synced": true,
+      "path": "select/11_Going,_Going,_Gone_Stars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Going, Going, Gone",
+      "artist": "Stars",
+      "has_synced": false,
+      "path": "select/12_Going,_Going,_Gone_Stars.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Going, Going, Gone",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/13_Going,_Going,_Gone_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Going, Going, Gone",
+      "artist": "Paloalto",
+      "has_synced": true,
+      "path": "select/14_Going,_Going,_Gone_Paloalto.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "going going gone",
+      "artist": "Paloalto",
+      "has_synced": true,
+      "path": "select/15_going_going_gone_Paloalto.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Going Going Gone",
+      "artist": "Lucy Dacus",
+      "has_synced": true,
+      "path": "select/16_Going_Going_Gone_Lucy_Dacus.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Going, Going, Gone - Live Version",
+      "artist": "Stars",
+      "has_synced": false,
+      "path": "select/17_Going,_Going,_Gone_-_Live_Version_Stars.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Going, Going, Gone",
+      "artist": "Knox",
+      "has_synced": false,
+      "path": "select/pl_01_Going,_Going,_Gone_Knox.txt"
+    }
+  ]
+}
